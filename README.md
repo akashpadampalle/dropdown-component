@@ -36,6 +36,10 @@ this project is build using vit framework as an Conding Ninjas Frontend skill te
 
 ## Live Demo
 
-open [https://react-ecommerce-phi-sand.vercel.app](https://react-ecommerce-phi-sand.vercel.app/) it in your browser
+open [https://dropdown-component-iota.vercel.app/](https://dropdown-component-iota.vercel.app/) it in your browser
 
 ## Screenshots
+ 
+![Screenshot from 2024-01-03 09-16-54](https://github.com/akashpadampalle/dropdown-component/assets/45806342/fef7a5f1-6dd8-40e1-80d9-ebeab1f48d71)
+
+  
